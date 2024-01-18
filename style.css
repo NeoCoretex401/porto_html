@@ -1,0 +1,1485 @@
+.box {
+  width: 1440px;
+  height: 2434px;
+}
+
+.box .group {
+  position: fixed;
+  width: 1440px;
+  height: 2434px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.box .overlap-wrapper {
+  width: 1496px;
+  height: 2366px;
+}
+
+.box .overlap {
+  position: relative;
+  width: 1440px;
+  height: 2366px;
+}
+
+.box .overlap-group {
+  position: absolute;
+  width: 1440px;
+  height: 2366px;
+  top: 0;
+  left: 0;
+}
+
+.box .shape {
+  position: absolute;
+  width: 486px;
+  height: 2366px;
+  top: 0;
+  left: 853px;
+}
+
+.box .img {
+  position: absolute;
+  width: 6px;
+  height: 545px;
+  top: 1144px;
+  left: 915px;
+}
+
+.box .shape-2 {
+  position: absolute;
+  width: 6px;
+  height: 263px;
+  top: 1763px;
+  left: 918px;
+}
+
+.box .shape-3 {
+  position: absolute;
+  width: 412px;
+  height: 6px;
+  top: 2126px;
+  left: 890px;
+}
+
+.box .shape-4 {
+  position: absolute;
+  width: 412px;
+  height: 6px;
+  top: 2075px;
+  left: 890px;
+}
+
+.box .component {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1752px;
+  left: 896px;
+}
+
+.box .circle {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 1221px;
+  left: 911px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .adobe-stock {
+  top: 1456px;
+  left: 946px;
+  color: #ffffff;
+  font-size: 32px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .https-www {
+  width: 222px;
+  top: 1268px;
+  left: 954px;
+  font-size: 23px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #fffafa;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper {
+  width: 223px;
+  top: 1516px;
+  left: 958px;
+  font-size: 21px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #fffafa;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .shutterstock {
+  position: absolute;
+  top: 1208px;
+  left: 949px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-decoration: underline;
+}
+
+.box .komunitas {
+  position: absolute;
+  top: 1114px;
+  left: 954px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .div {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 1469px;
+  left: 911px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .group-2 {
+  position: absolute;
+  width: 100px;
+  height: 129px;
+  top: 1518px;
+  left: 1177px;
+}
+
+.box .overlap-group-wrapper {
+  position: absolute;
+  width: 102px;
+  height: 26px;
+  top: 0;
+  left: 0;
+}
+
+.box .adobe-stock-wrapper {
+  position: relative;
+  width: 100px;
+  height: 26px;
+  background-image: url(./img/group-18.png);
+  background-size: 100% 100%;
+}
+
+.box .adobe-stock-2 {
+  position: absolute;
+  top: 6px;
+  left: 25px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #6c96ce;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .group-3 {
+  position: absolute;
+  width: 99px;
+  height: 99px;
+  top: 30px;
+  left: 0;
+}
+
+.box .education {
+  top: 1748px;
+  left: 958px;
+  font-size: 48px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .education-2 {
+  top: 2082px;
+  left: 896px;
+  font-size: 36px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .SMK-WIJAYAPLUS {
+  position: absolute;
+  top: 1830px;
+  left: 958px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .circle-2 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 1843px;
+  left: 914px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .jurusan-multimedia {
+  position: absolute;
+  top: 1870px;
+  left: 974px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #fffbfb;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-2 {
+  position: absolute;
+  top: 1899px;
+  left: 1093px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #073341;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .circle-3 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 1946px;
+  left: 914px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .skill-academy {
+  position: absolute;
+  top: 1933px;
+  left: 983px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .kursus-audio-mixing {
+  position: absolute;
+  top: 1964px;
+  left: 1072px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #fffdfd;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .element {
+  position: absolute;
+  top: 1992px;
+  left: 1092px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  font-style: italic;
+  color: #073341;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .CERT {
+  position: absolute;
+  width: 200px;
+  height: 140px;
+  top: 2143px;
+  left: 1099px;
+  object-fit: cover;
+}
+
+.box .CERT-mdyys {
+  position: absolute;
+  width: 200px;
+  height: 140px;
+  top: 2143px;
+  left: 887px;
+  object-fit: cover;
+}
+
+.box .shape-5 {
+  position: absolute;
+  width: 1440px;
+  height: 465px;
+  top: 595px;
+  left: 0;
+}
+
+.box .shape-6 {
+  position: absolute;
+  width: 1440px;
+  height: 330px;
+  top: 221px;
+  left: 0;
+}
+
+.box .foto {
+  position: absolute;
+  width: 346px;
+  height: 432px;
+  top: 180px;
+  left: 912px;
+}
+
+.box .shape-7 {
+  position: absolute;
+  width: 1440px;
+  height: 102px;
+  top: 2151px;
+  left: -912px;
+}
+
+.box .whatsapp-image-wrapper {
+  position: absolute;
+  width: 376px;
+  height: 462px;
+  top: -15px;
+  left: -15px;
+  background-image: url(./img/bg.png);
+  background-size: 100% 100%;
+}
+
+.box .whatsapp-image {
+  position: absolute;
+  width: 312px;
+  height: 403px;
+  top: 28px;
+  left: 32px;
+}
+
+.box .group-4 {
+  position: absolute;
+  width: 754px;
+  height: 282px;
+  top: 658px;
+  left: 79px;
+}
+
+.box .tentang-saya {
+  position: absolute;
+  top: 4px;
+  left: 87px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .group-5 {
+  position: absolute;
+  width: 66px;
+  height: 66px;
+  top: 0;
+  left: 0;
+}
+
+.box .nama-saya-REGI {
+  position: absolute;
+  width: 663px;
+  top: 80px;
+  left: 87px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .graphic-designer {
+  position: absolute;
+  width: 651px;
+  top: 409px;
+  left: 104px;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 48px;
+  text-align: center;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .span {
+  font-style: italic;
+  letter-spacing: 0;
+}
+
+.box .text-wrapper-3 {
+  font-style: italic;
+  letter-spacing: 19.68px;
+}
+
+.box .regi-regiana {
+  position: absolute;
+  top: 298px;
+  left: 104px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 95px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-4 {
+  position: absolute;
+  top: 839px;
+  left: 984px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .shape-8 {
+  position: absolute;
+  width: 3px;
+  height: 337px;
+  top: 667px;
+  left: 910px;
+}
+
+.box .circle-4 {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  top: 945px;
+  left: 907px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-5 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 758px;
+  left: 907px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-6 {
+  position: absolute;
+  width: 10px;
+  height: 9px;
+  top: 851px;
+  left: 907px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .component-2 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 933px;
+  left: 936px;
+}
+
+.box .component-3 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 838px;
+  left: 936px;
+}
+
+.box .component-4 {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 743px;
+  left: 936px;
+}
+
+.box .kontak-saya {
+  position: absolute;
+  top: 656px;
+  left: 952px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .group-6 {
+  position: absolute;
+  width: 39px;
+  height: 39px;
+  top: 662px;
+  left: 892px;
+}
+
+.box .text-wrapper-5 {
+  position: absolute;
+  top: 743px;
+  left: 984px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-6 {
+  position: absolute;
+  top: 779px;
+  left: 1020px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  font-style: italic;
+  color: #f8f5f5;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .jl-mayjen-h-r-edi {
+  position: absolute;
+  width: 307px;
+  height: 96px;
+  top: 902px;
+  left: 984px;
+}
+
+.box .jl-mayjen-h-r-edi-2 {
+  position: absolute;
+  width: 305px;
+  top: 0;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .component-5 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1114px;
+  left: 893px;
+}
+
+.box .group-7 {
+  position: absolute;
+  width: 101px;
+  height: 161px;
+  top: 1269px;
+  left: 1176px;
+}
+
+.box .group-8 {
+  position: absolute;
+  width: 100px;
+  height: 130px;
+  top: 31px;
+  left: 1px;
+}
+
+.box .group-wrapper {
+  height: 100px;
+  background-image: url(./img/vector.png);
+  background-size: 100% 100%;
+}
+
+.box .frame-wrapper {
+  position: relative;
+  width: 89px;
+  height: 89px;
+  top: 5px;
+  left: 5px;
+}
+
+.box .frame {
+  height: 89px;
+  background-color: #ffffff;
+}
+
+.box .overlap-group-2 {
+  position: relative;
+  width: 86px;
+  height: 86px;
+  top: 1px;
+  left: 1px;
+  background-image: url(./img/group-14.png);
+  background-size: 100% 100%;
+}
+
+.box .img-wrapper {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 0;
+  left: 0;
+  background-image: url(./img/group-12.png);
+  background-size: 100% 100%;
+}
+
+.box .group-9 {
+  position: absolute;
+  width: 9px;
+  height: 9px;
+  top: 6px;
+  left: 6px;
+}
+
+.box .overlap-2 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 0;
+  left: 66px;
+  background-image: url(./img/group-8.png);
+  background-size: 100% 100%;
+}
+
+.box .overlap-3 {
+  position: absolute;
+  width: 21px;
+  height: 21px;
+  top: 66px;
+  left: 0;
+  background-image: url(./img/group-4.png);
+  background-size: 100% 100%;
+}
+
+.box .rectangle {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 33px;
+  left: 33px;
+}
+
+.box .div-wrapper {
+  position: absolute;
+  width: 100px;
+  height: 26px;
+  top: 0;
+  left: 0;
+}
+
+.box .overlap-4 {
+  position: relative;
+  height: 26px;
+}
+
+.box .phone-icon {
+  position: absolute;
+  width: 9px;
+  height: 16px;
+  top: 6px;
+  left: 8px;
+}
+
+.box .text-wrapper-7 {
+  position: absolute;
+  top: 4px;
+  left: 24px;
+  font-family: "Inter", Helvetica;
+  font-weight: 800;
+  color: #6c96ce;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .overlap-5 {
+  position: absolute;
+  width: 409px;
+  height: 321px;
+  top: 1871px;
+  left: 114px;
+}
+
+.box .shape-9 {
+  position: absolute;
+  width: 5px;
+  height: 305px;
+  top: 0;
+  left: 4px;
+}
+
+.box .circle-7 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 32px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-8 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 70px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-9 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 113px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-10 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 113px;
+  left: 114px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-11 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 156px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-12 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 203px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-13 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 245px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-14 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 298px;
+  left: 0;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-15 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 32px;
+  left: 219px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-16 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 70px;
+  left: 131px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-17 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 156px;
+  left: 131px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-18 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 203px;
+  left: 142px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-19 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 245px;
+  left: 282px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .circle-20 {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 298px;
+  left: 227px;
+  background-color: #185cb3;
+  border-radius: 6px;
+}
+
+.box .text-wrapper-8 {
+  top: 59px;
+  left: 162px;
+  color: #333333;
+  font-size: 30px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .microsoft-excel {
+  position: absolute;
+  top: 145px;
+  left: 163px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .text-wrapper-9 {
+  top: 101px;
+  left: 146px;
+  color: #333333;
+  font-size: 30px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .adobe-photoshop {
+  top: 190px;
+  left: 174px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .adobe-photoshop-2 {
+  top: 285px;
+  left: 246px;
+  position: absolute;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .rectangle-wrapper {
+  position: absolute;
+  width: 231px;
+  height: 11px;
+  top: 33px;
+  left: 8px;
+}
+
+.box .rectangle-2 {
+  position: relative;
+  width: 220px;
+  height: 3px;
+  top: 4px;
+  background-color: #185cb3;
+}
+
+.box .group-10 {
+  position: absolute;
+  width: 299px;
+  height: 234px;
+  top: 72px;
+  left: 4px;
+}
+
+.box .rectangle-3 {
+  width: 128px;
+  top: 4px;
+  left: 5px;
+  position: absolute;
+  height: 3px;
+  background-color: #185cb3;
+}
+
+.box .group-11 {
+  position: absolute;
+  width: 299px;
+  height: 192px;
+  top: 42px;
+  left: 0;
+}
+
+.box .rectangle-4 {
+  width: 118px;
+  top: 4px;
+  left: 1px;
+  position: absolute;
+  height: 3px;
+  background-color: #185cb3;
+}
+
+.box .group-12 {
+  position: absolute;
+  width: 299px;
+  height: 148px;
+  top: 44px;
+  left: 0;
+}
+
+.box .rectangle-5 {
+  width: 128px;
+  top: 4px;
+  left: 0;
+  position: absolute;
+  height: 3px;
+  background-color: #185cb3;
+}
+
+.box .group-13 {
+  position: absolute;
+  width: 296px;
+  height: 103px;
+  top: 45px;
+  left: 3px;
+}
+
+.box .rectangle-6 {
+  width: 141px;
+  top: 4px;
+  left: 0;
+  position: absolute;
+  height: 3px;
+  background-color: #185cb3;
+}
+
+.box .group-14 {
+  position: absolute;
+  width: 294px;
+  height: 57px;
+  top: 46px;
+  left: 2px;
+}
+
+.box .rectangle-7 {
+  width: 278px;
+  top: 2px;
+  left: 0;
+  position: absolute;
+  height: 3px;
+  background-color: #185cb3;
+}
+
+.box .rectangle-8 {
+  position: absolute;
+  width: 226px;
+  height: 3px;
+  top: 54px;
+  left: 0;
+  background-color: #185cb3;
+}
+
+.box .overlap-6 {
+  position: absolute;
+  width: 735px;
+  height: 657px;
+  top: 1116px;
+  left: 95px;
+}
+
+.box .shape-10 {
+  position: absolute;
+  width: 3px;
+  height: 636px;
+  top: 21px;
+  left: 24px;
+}
+
+.box .circle-21 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 466px;
+  left: 9px;
+}
+
+.box .circle-22 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 280px;
+  left: 9px;
+}
+
+.box .circle-23 {
+  position: absolute;
+  width: 36px;
+  height: 36px;
+  top: 93px;
+  left: 9px;
+}
+
+.box .component-6 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 0;
+  left: 0;
+}
+
+.box .group-15 {
+  position: absolute;
+  width: 694px;
+  height: 165px;
+  top: 277px;
+  left: 41px;
+}
+
+.box .posisi-sebagai {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-10 {
+  font-style: italic;
+}
+
+.box .text-wrapper-11 {
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 24.5px;
+  letter-spacing: 0;
+}
+
+.box .text-wrapper-12 {
+  position: absolute;
+  top: 0;
+  left: 512px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #6c96ce;
+  font-size: 30.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .element-rumah {
+  position: absolute;
+  top: 4px;
+  left: 14px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .group-16 {
+  position: absolute;
+  width: 684px;
+  height: 158px;
+  top: 92px;
+  left: 44px;
+}
+
+.box .group-17 {
+  height: 158px;
+}
+
+.box .group-18 {
+  width: 690px;
+  height: 158px;
+}
+
+.box .overlap-7 {
+  position: relative;
+  width: 684px;
+  height: 158px;
+}
+
+.box .overlap-group-3 {
+  position: absolute;
+  width: 607px;
+  height: 158px;
+  top: 0;
+  left: 0;
+}
+
+.box .p {
+  position: absolute;
+  top: 38px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .semuwa-advertising {
+  position: absolute;
+  top: 0;
+  left: 6px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .element-2 {
+  position: absolute;
+  top: 1px;
+  left: 514px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #6c96ce;
+  font-size: 30.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .component-7 {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 1809px;
+  left: 95px;
+}
+
+.box .pengalaman {
+  position: absolute;
+  top: 1116px;
+  left: 171px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #073341;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .group-19 {
+  position: absolute;
+  width: 681px;
+  height: 159px;
+  top: 1586px;
+  left: 145px;
+}
+
+.box .posisi-sebagai-2 {
+  position: absolute;
+  top: 39px;
+  left: 2px;
+  font-family: "Inter", Helvetica;
+  font-weight: 400;
+  color: #333333;
+  font-size: 24.5px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-13 {
+  position: absolute;
+  top: 0;
+  left: 494px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #6c96ce;
+  font-size: 30.6px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .nevs-apparel {
+  position: absolute;
+  top: 4px;
+  left: 0;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 27.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .skills {
+  position: absolute;
+  top: 1805px;
+  left: 167px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.box .text-wrapper-14 {
+  position: absolute;
+  top: 1891px;
+  left: 370px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .microsoft-excel-2 {
+  position: absolute;
+  top: 2105px;
+  left: 433px;
+  font-family: "Inter", Helvetica;
+  font-weight: 700;
+  color: #333333;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.box .shape-wrapper {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 1898px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-11 {
+  position: absolute;
+  width: 213px;
+  height: 8px;
+  top: 7px;
+  left: 7px;
+}
+
+.box .overlap-8 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 1937px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-12 {
+  position: absolute;
+  width: 182px;
+  height: 8px;
+  top: 7px;
+  left: 7px;
+}
+
+.box .overlap-9 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 1979px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-13 {
+  position: absolute;
+  width: 151px;
+  height: 8px;
+  top: 7px;
+  left: 7px;
+}
+
+.box .overlap-10 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 2026px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-14 {
+  position: absolute;
+  width: 213px;
+  height: 8px;
+  top: 8px;
+  left: 7px;
+}
+
+.box .overlap-11 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 2068px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-15 {
+  position: absolute;
+  width: 189px;
+  height: 8px;
+  top: 6px;
+  left: 7px;
+}
+
+.box .overlap-12 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 2113px;
+  left: 552px;
+  background-image: url(./img/group-3-6.png);
+  background-size: 100% 100%;
+}
+
+.box .shape-16 {
+  position: absolute;
+  width: 154px;
+  height: 8px;
+  top: 7px;
+  left: 7px;
+}
+
+.box .overlap-13 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 2166px;
+  left: 552px;
+}
+
+.box .shape-17 {
+  position: absolute;
+  width: 225px;
+  height: 8px;
+  top: 7px;
+  left: 7px;
+}
+
+.box .shape-18 {
+  position: absolute;
+  width: 242px;
+  height: 22px;
+  top: 0;
+  left: 0;
+}
